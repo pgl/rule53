@@ -6,4 +6,4 @@ This list was first published as a tweet thread: https://twitter.com/pgl/status/
 
 
 
-1. General DN tunnelling: https://t.co/m7lQNrbvzS?amp=1
+1. General DNS tunnelling: https://www.daemon.be/maarten/dnstunnel.html
