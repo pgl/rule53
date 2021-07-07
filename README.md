@@ -62,7 +62,7 @@ https://cdocs.menandmice.com/display/MM/DNS+Fun
 
 ### Getting external IP over DNS
 
-dig o-o.myaddr.l.google.com @NS1.google.com TXT +short
+`dig o-o.myaddr.l.google.com @NS1.google.com TXT +short`
 
 
 ### DNS text adventure game (@craigmayhew)
@@ -180,3 +180,8 @@ or
 `mtr http://euro2020.austrian.soccer`
 
 https://twitter.com/_sehaas/status/1408366254583332865
+
+
+### Contacts database via DNS
+
+https://www.num.uk/protocol
