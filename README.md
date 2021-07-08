@@ -185,3 +185,8 @@ https://twitter.com/_sehaas/status/1408366254583332865
 ### Contacts database via DNS
 
 https://www.num.uk/protocol
+
+
+### Job ads via DNS (@DNSFilter)
+
+`host -t txt jobs.dnsfilter.com`
