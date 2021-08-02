@@ -190,3 +190,13 @@ https://www.num.uk/protocol
 ### Job ads via DNS (@DNSFilter)
 
 `host -t txt jobs.dnsfilter.com`
+
+
+### Finding your closest root server via DNS (h/t @jschauma)
+
+`dig +short @f.root-servers.net hostname.bind chaos txt`
+
+
+### DNS tunneling without a domain (from @iagox86)
+
+https://github.com/iagox86/dnscat2
