@@ -125,11 +125,6 @@ https://dotat.at/cgi/git/leapseconds.git/blob/HEAD:/syntax.md
 `dig london.europe.tz.dotat.at TYPE29818`
 
 
-### Timezone data via DNS
-
-`dig london.europe.tz.dotat.at TYPE29818`
-
-
 ### Twitter via DDNS updates (@jpmens)
 
 https://jpmens.net/2011/04/18/rfc-2136-ddns-updates-to-twitter/
