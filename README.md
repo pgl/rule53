@@ -195,3 +195,10 @@ https://www.num.uk/protocol
 ### DNS tunneling without a domain (from @iagox86)
 
 https://github.com/iagox86/dnscat2
+
+
+### Bad Horse via DNS
+
+`traceroute bad.horse`
+
+From Dr Horrible's Sing-Along: https://www.youtube.com/watch?v=O03k0DV2m1k
